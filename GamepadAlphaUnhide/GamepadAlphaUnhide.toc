@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Gamepad Alpha Unhide
+## Notes: Visibility check and optional character-only position for the Gamepad Action Bar
+## Version: 0.2.0
+## SavedVariablesPerCharacter: GamepadAlphaUnhideDB
+
+GamepadAlphaUnhide.lua
