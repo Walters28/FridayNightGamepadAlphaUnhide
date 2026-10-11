@@ -1,0 +1,15 @@
+# Local game state and personal configuration
+WTF/
+SavedVariables/
+*.lua.bak
+*.lua.old
+
+# Editor files and temporary archives
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.zip
+*.7z
+*.rar
+*~
